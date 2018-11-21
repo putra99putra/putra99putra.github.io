@@ -1,0 +1,43 @@
+body{
+				background:gray;
+			}
+			.container{
+				overflow:hidden;
+				margin:100px auto;
+				width:300px;
+				border:3px solid green;
+				border-radius:2px;
+				background:white;
+			}
+			form{
+				margin:10px;
+				padding:10px;
+				overflow:hidden;
+			}
+			label,input{
+				display:block;
+				width:96%;
+				margin-top:10px;
+			}
+			h2{
+				text-align:center;
+				color:white;
+				background:green;
+				margin:0px;
+			}
+			input{
+				border-radius:5px;
+				padding:2% 2%;
+				border:2px solid green;
+			}
+			button{
+				background:orange;
+				border-radius:5px;
+				padding:7px 10px;
+				color:white;
+				width:100%;
+			}
+			button:hover{
+				background:#d48a04;
+				cursor:pointer;
+			}
